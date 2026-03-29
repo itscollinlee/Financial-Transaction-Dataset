@@ -1,0 +1,10 @@
+2026-03-21 22:26:17,278 - INFO - Checking to see if bronze_cards_data exists.
+2026-03-21 22:26:17,477 - INFO - Table does not exist; table will be created.
+2026-03-21 22:26:23,980 - INFO - cards_data.csv is in the volume folder
+2026-03-21 22:26:23,982 - INFO - 1 files to load
+2026-03-21 22:26:23,985 - INFO - Extracting data from /Volumes/financial_transactions_dataset/default/financial_transactions_dataset_analytics_volume/cards_data.csv
+2026-03-21 22:26:25,878 - INFO - Extracted 6146 rows with 13 columns
+2026-03-21 22:26:26,645 - INFO - Extracted total 6146 rows with 13 columns
+2026-03-21 22:26:26,646 - INFO - Creating table to financial_transactions_dataset.default
+2026-03-21 22:26:36,274 - INFO - Wrote 6146 rows to financial_transactions_dataset.default
+2026-03-21 22:26:36,276 - INFO - Bronze level table bronze_cards_data created or appended to successfully.

@@ -1,0 +1,83 @@
+2026-03-24 04:46:35,040 - INFO - Initializing ETL on bronze dataframe
+2026-03-24 04:46:35,042 - INFO - Checking to see if silver_mcc_codes_data exists.
+2026-03-24 04:46:35,493 - INFO - Table does not exist; table will be created.
+2026-03-24 04:46:35,505 - INFO - Reading data from financial_transactions_dataset.default.bronze_mcc_codes_data
+2026-03-24 04:46:36,038 - INFO - Read 1 rows from financial_transactions_dataset.default.bronze_mcc_codes_data
+2026-03-24 04:46:36,040 - INFO - Transposing financial_transactions_dataset.default.bronze_mcc_codes_data table.
+2026-03-24 04:46:36,235 - INFO - Trimming fields in financial_transactions_dataset.default.bronze_mcc_codes_data
+2026-03-24 04:46:36,280 - INFO - Creating table to financial_transactions_dataset.default
+2026-03-24 04:46:42,063 - INFO - Wrote 109 rows to financial_transactions_dataset.default
+2026-03-24 04:46:42,064 - INFO - Silver level table silver_mcc_codes_data created or appended to successfully.
+2026-03-24 04:46:56,144 - INFO - Received command c on object id p0
+2026-03-24 04:47:20,903 - INFO - Received command c on object id p0
+2026-03-24 04:47:44,930 - INFO - Received command c on object id p0
+2026-03-24 04:48:18,912 - INFO - Received command c on object id p0
+2026-03-24 04:48:23,646 - INFO - Received command c on object id p0
+2026-03-24 04:48:23,681 - INFO - Initializing ETL on bronze dataframe
+2026-03-24 04:48:23,682 - INFO - Checking to see if silver_mcc_codes_data exists.
+2026-03-24 04:48:23,873 - INFO - Table does not exist; table will be created.
+2026-03-24 04:48:23,874 - INFO - Reading data from financial_transactions_dataset.default.bronze_mcc_codes_data
+2026-03-24 04:48:24,270 - INFO - Read 1 rows from financial_transactions_dataset.default.bronze_mcc_codes_data
+2026-03-24 04:48:24,272 - INFO - Transposing financial_transactions_dataset.default.bronze_mcc_codes_data table.
+2026-03-24 04:48:24,480 - INFO - Trimming fields in financial_transactions_dataset.default.bronze_mcc_codes_data
+2026-03-24 04:48:24,481 - INFO - Creating table to financial_transactions_dataset.default
+2026-03-24 04:49:02,671 - INFO - Received command c on object id p0
+2026-03-24 04:49:06,767 - INFO - Received command c on object id p0
+2026-03-24 04:49:07,027 - INFO - Received command c on object id p0
+2026-03-24 04:49:07,328 - INFO - Received command c on object id p0
+2026-03-24 04:49:07,665 - INFO - Received command c on object id p0
+2026-03-24 04:49:07,911 - INFO - Received command c on object id p0
+2026-03-24 04:49:08,191 - INFO - Received command c on object id p0
+2026-03-24 04:49:08,477 - INFO - Received command c on object id p0
+2026-03-24 04:49:08,716 - INFO - Received command c on object id p0
+2026-03-24 04:49:08,967 - INFO - Received command c on object id p0
+2026-03-24 04:49:09,195 - INFO - Received command c on object id p0
+2026-03-24 04:49:09,247 - INFO - Initializing ETL on bronze dataframe
+2026-03-24 04:49:09,247 - INFO - Checking to see if silver_mcc_codes_data exists.
+2026-03-24 04:49:09,718 - INFO - Table does not exist; table will be created.
+2026-03-24 04:49:09,719 - INFO - Reading data from financial_transactions_dataset.default.bronze_mcc_codes_data
+2026-03-24 04:49:10,111 - INFO - Read 1 rows from financial_transactions_dataset.default.bronze_mcc_codes_data
+2026-03-24 04:49:10,130 - INFO - Transposing financial_transactions_dataset.default.bronze_mcc_codes_data table.
+2026-03-24 04:49:10,305 - INFO - Trimming fields in financial_transactions_dataset.default.bronze_mcc_codes_data
+2026-03-24 04:49:10,307 - INFO - Creating table to financial_transactions_dataset.default
+2026-03-24 04:49:14,123 - INFO - Wrote 109 rows to financial_transactions_dataset.default
+2026-03-24 04:49:14,129 - INFO - Silver level table silver_mcc_codes_data created or appended to successfully.
+2026-03-24 04:49:14,418 - INFO - Received command c on object id p0
+2026-03-24 04:49:44,416 - INFO - Initializing ETL on bronze dataframe
+2026-03-24 04:49:44,417 - INFO - Checking to see if silver_mcc_codes_data exists.
+2026-03-24 04:49:44,883 - INFO - Table does not exist; table will be created.
+2026-03-24 04:49:44,903 - INFO - Reading data from financial_transactions_dataset.default.bronze_mcc_codes_data
+2026-03-24 04:49:45,430 - INFO - Read 1 rows from financial_transactions_dataset.default.bronze_mcc_codes_data
+2026-03-24 04:49:45,434 - INFO - Transposing financial_transactions_dataset.default.bronze_mcc_codes_data table.
+2026-03-24 04:49:45,656 - INFO - Trimming fields in financial_transactions_dataset.default.bronze_mcc_codes_data
+2026-03-24 04:49:45,714 - INFO - Creating table to financial_transactions_dataset.default
+2026-03-24 04:49:49,696 - INFO - Wrote 109 rows to financial_transactions_dataset.default
+2026-03-24 04:49:49,708 - INFO - Silver level table silver_mcc_codes_data created or appended to successfully.
+2026-03-24 04:49:50,088 - INFO - Received command c on object id p0
+2026-03-24 04:50:19,488 - INFO - Received command c on object id p0
+2026-03-24 04:50:19,565 - INFO - Initializing ETL on bronze dataframe
+2026-03-24 04:50:19,567 - INFO - Checking to see if silver_mcc_codes_data exists.
+2026-03-24 04:50:19,780 - INFO - Table does not exist; table will be created.
+2026-03-24 04:50:19,795 - INFO - Reading data from financial_transactions_dataset.default.bronze_mcc_codes_data
+2026-03-24 04:50:20,471 - INFO - Read 1 rows from financial_transactions_dataset.default.bronze_mcc_codes_data
+2026-03-24 04:50:20,475 - INFO - Transposing financial_transactions_dataset.default.bronze_mcc_codes_data table.
+2026-03-24 04:50:20,705 - INFO - Trimming fields in financial_transactions_dataset.default.bronze_mcc_codes_data
+2026-03-24 04:50:20,707 - INFO - Creating table to financial_transactions_dataset.default
+2026-03-24 04:50:24,689 - INFO - Wrote 109 rows to financial_transactions_dataset.default
+2026-03-24 04:50:24,690 - INFO - Silver level table silver_mcc_codes_data created or appended to successfully.
+2026-03-24 04:50:34,981 - INFO - Received command c on object id p0
+2026-03-24 04:53:28,933 - INFO - Initializing ETL on bronze dataframe
+2026-03-24 04:53:28,934 - INFO - Checking to see if silver_cards_data exists.
+2026-03-24 04:53:29,090 - INFO - Table does not exist; table will be created.
+2026-03-24 04:53:29,091 - INFO - Reading data from financial_transactions_dataset.default.bronze_cards_data
+2026-03-24 04:53:29,565 - INFO - Read 6146 rows from financial_transactions_dataset.default.bronze_cards_data
+2026-03-24 04:53:29,566 - INFO - Reformatting expiration date
+2026-03-24 04:53:29,597 - INFO - Reformatting account open date
+2026-03-24 04:53:29,600 - INFO - Dropping original expiration, account open dates
+2026-03-24 04:53:29,608 - INFO - Converting expiration and account open dates to yyyy-MM format
+2026-03-24 04:53:29,621 - INFO - Capitalizing values in card_on_dark_web
+2026-03-24 04:53:29,623 - INFO - Converting credit limit to integer
+2026-03-24 04:53:29,625 - INFO - Reordering arrangement of fields
+2026-03-24 04:53:29,626 - INFO - Creating table to financial_transactions_dataset.default
+2026-03-24 04:53:34,200 - INFO - Wrote 6146 rows to financial_transactions_dataset.default
+2026-03-24 04:53:34,202 - INFO - Silver level table silver_cards_data created or appended to successfully.

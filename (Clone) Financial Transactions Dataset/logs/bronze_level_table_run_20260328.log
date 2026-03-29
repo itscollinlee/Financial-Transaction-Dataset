@@ -1,0 +1,10 @@
+2026-03-28 06:16:36,267 - INFO - Checking to see if bronze_train_fraud_labels exists.
+2026-03-28 06:16:36,712 - INFO - Table does not exist; table will be created.
+2026-03-28 06:16:47,002 - INFO - train_fraud_labels.csv is in the volume folder
+2026-03-28 06:16:47,003 - INFO - 1 files to load
+2026-03-28 06:16:47,004 - INFO - Extracting data from /Volumes/financial_transactions_dataset/default/financial_transactions_dataset_analytics_volume/train_fraud_labels.csv
+2026-03-28 06:16:51,648 - INFO - Extracted 8914962 rows with 2 columns
+2026-03-28 06:16:53,209 - INFO - Extracted total 8914962 rows with 2 columns
+2026-03-28 06:16:53,211 - INFO - Creating table to financial_transactions_dataset.default
+2026-03-28 06:17:03,188 - INFO - Wrote 8914962 rows to financial_transactions_dataset.default
+2026-03-28 06:17:03,189 - INFO - Bronze level table bronze_train_fraud_labels created or appended to successfully.

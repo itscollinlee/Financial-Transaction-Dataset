@@ -1,0 +1,185 @@
+2026-03-28 06:02:29,291 - INFO - Initializing ETL on bronze dataframe
+2026-03-28 06:02:29,292 - INFO - Checking to see if silver_users_data exists.
+2026-03-28 06:02:30,001 - INFO - Table does not exist; table will be created.
+2026-03-28 06:02:30,006 - INFO - Reading data from financial_transactions_dataset.default.bronze_users_data
+2026-03-28 06:02:30,575 - INFO - Read 2000 rows from financial_transactions_dataset.default.bronze_users_data
+2026-03-28 06:02:30,576 - INFO - Converting per capita income to integer
+2026-03-28 06:02:30,578 - INFO - Converting yearly income to integer
+2026-03-28 06:02:30,580 - INFO - Converting total debt to integer
+2026-03-28 06:02:30,581 - INFO - Converting latitude to decimal
+2026-03-28 06:02:30,581 - INFO - Converting longitude to decimal
+2026-03-28 06:02:30,582 - INFO - Converting latitude to decimal
+2026-03-28 06:02:30,584 - INFO - Creating table to financial_transactions_dataset.default
+2026-03-28 06:03:46,817 - INFO - Python Server ready to receive messages
+2026-03-28 06:03:46,819 - INFO - Received command c on object id p0
+2026-03-28 06:03:52,553 - INFO - Received command c on object id p0
+2026-03-28 06:03:52,863 - INFO - Received command c on object id p0
+2026-03-28 06:03:53,153 - INFO - Received command c on object id p0
+2026-03-28 06:03:53,472 - INFO - Received command c on object id p0
+2026-03-28 06:03:53,766 - INFO - Received command c on object id p0
+2026-03-28 06:03:54,047 - INFO - Received command c on object id p0
+2026-03-28 06:03:54,359 - INFO - Received command c on object id p0
+2026-03-28 06:03:54,666 - INFO - Received command c on object id p0
+2026-03-28 06:03:54,963 - INFO - Received command c on object id p0
+2026-03-28 06:03:55,323 - INFO - Received command c on object id p0
+2026-03-28 06:03:55,536 - INFO - Received command c on object id p0
+2026-03-28 06:03:55,605 - INFO - Initializing ETL on bronze dataframe
+2026-03-28 06:03:55,606 - INFO - Checking to see if silver_users_data exists.
+2026-03-28 06:03:55,974 - INFO - Table does not exist; table will be created.
+2026-03-28 06:03:55,975 - INFO - Reading data from financial_transactions_dataset.default.bronze_users_data
+2026-03-28 06:03:56,436 - INFO - Read 2000 rows from financial_transactions_dataset.default.bronze_users_data
+2026-03-28 06:03:56,437 - INFO - Converting per capita income to integer
+2026-03-28 06:03:56,438 - INFO - Converting yearly income to integer
+2026-03-28 06:03:56,439 - INFO - Converting total debt to integer
+2026-03-28 06:03:56,440 - INFO - Converting latitude to decimal
+2026-03-28 06:03:56,441 - INFO - Converting longitude to decimal
+2026-03-28 06:03:56,442 - INFO - Converting latitude to decimal
+2026-03-28 06:03:56,443 - INFO - Creating table to financial_transactions_dataset.default
+2026-03-28 06:04:03,185 - INFO - Wrote 2000 rows to financial_transactions_dataset.default
+2026-03-28 06:04:03,186 - INFO - Silver level table silver_users_data created or appended to successfully.
+2026-03-28 06:04:22,009 - INFO - Received command c on object id p0
+2026-03-28 06:13:05,318 - INFO - Initializing ETL on bronze dataframe
+2026-03-28 06:13:05,320 - INFO - Checking to see if silver_train_fraud_labels exists.
+2026-03-28 06:13:05,641 - INFO - Table does not exist; table will be created.
+2026-03-28 06:13:05,642 - INFO - Reading data from financial_transactions_dataset.default.bronze_train_fraud_labels
+2026-03-28 06:13:06,138 - INFO - Read 8914962 rows from financial_transactions_dataset.default.bronze_train_fraud_labels
+2026-03-28 06:13:06,147 - INFO - Capitalizing values in flag
+2026-03-28 06:13:06,185 - INFO - Converting id to integer
+2026-03-28 06:13:06,187 - INFO - Creating table to financial_transactions_dataset.default
+2026-03-28 06:13:12,814 - INFO - Wrote 8914962 rows to financial_transactions_dataset.default
+2026-03-28 06:13:12,814 - INFO - Silver level table silver_train_fraud_labels created or appended to successfully.
+2026-03-28 06:13:36,730 - INFO - Received command c on object id p0
+2026-03-28 06:15:18,372 - INFO - Python Server ready to receive messages
+2026-03-28 06:15:18,373 - INFO - Received command c on object id p0
+2026-03-28 06:15:53,277 - INFO - Received command c on object id p0
+2026-03-28 06:15:57,426 - INFO - Received command c on object id p0
+2026-03-28 06:15:57,461 - INFO - Initializing ETL on bronze dataframe
+2026-03-28 06:15:57,462 - INFO - Checking to see if silver_train_fraud_labels exists.
+2026-03-28 06:15:57,743 - INFO - Table exists; table creation skipped.
+2026-03-28 06:15:57,744 - INFO - Reading data from financial_transactions_dataset.default.bronze_train_fraud_labels
+2026-03-28 06:17:12,351 - INFO - Python Server ready to receive messages
+2026-03-28 06:17:12,353 - INFO - Received command c on object id p0
+2026-03-28 06:17:12,391 - INFO - Initializing ETL on bronze dataframe
+2026-03-28 06:17:12,392 - INFO - Checking to see if silver_train_fraud_labels exists.
+2026-03-28 06:17:12,732 - INFO - Table exists; table creation skipped.
+2026-03-28 06:17:12,733 - INFO - Reading data from financial_transactions_dataset.default.bronze_train_fraud_labels
+2026-03-28 06:17:13,210 - INFO - Read 8914962 rows from financial_transactions_dataset.default.bronze_train_fraud_labels
+2026-03-28 06:17:13,212 - INFO - Capitalizing values in flag
+2026-03-28 06:17:13,213 - INFO - Converting id to integer
+2026-03-28 06:17:13,215 - INFO - Appending data to financial_transactions_dataset.default
+2026-03-28 06:17:17,385 - INFO - Wrote 8914962 rows to financial_transactions_dataset.default
+2026-03-28 06:17:17,387 - INFO - Silver level table silver_train_fraud_labels created or appended to successfully.
+2026-03-28 06:17:26,839 - INFO - Received command c on object id p0
+2026-03-28 06:53:09,356 - INFO - Initializing ETL on bronze dataframe
+2026-03-28 06:53:09,357 - INFO - Checking to see if silver_transactions_data exists.
+2026-03-28 06:53:09,557 - INFO - Table does not exist; table will be created.
+2026-03-28 06:53:09,558 - INFO - Reading data from financial_transactions_dataset.default.bronze_transactions_data
+2026-03-28 06:53:10,156 - INFO - Read 13305915 rows from financial_transactions_dataset.default.bronze_transactions_data
+2026-03-28 06:53:10,157 - INFO - Converting amount to decimal
+2026-03-28 06:53:10,158 - INFO - Splitting date and time for each record.
+2026-03-28 06:53:10,159 - INFO - Dropping original date field.
+2026-03-28 06:53:10,160 - INFO - Converting fields to integer
+2026-03-28 06:53:10,161 - INFO - Renaming columns
+2026-03-28 06:53:10,161 - INFO - Reordering arrangement of fields
+2026-03-28 06:53:10,162 - INFO - Creating table to financial_transactions_dataset.default
+2026-03-28 06:54:13,951 - INFO - Python Server ready to receive messages
+2026-03-28 06:54:13,953 - INFO - Received command c on object id p0
+2026-03-28 06:56:22,705 - INFO - Python Server ready to receive messages
+2026-03-28 06:56:22,707 - INFO - Received command c on object id p0
+2026-03-28 06:56:29,958 - INFO - Received command c on object id p0
+2026-03-28 06:56:30,027 - INFO - Initializing ETL on bronze dataframe
+2026-03-28 06:56:30,027 - INFO - Checking to see if silver_transactions_data exists.
+2026-03-28 06:56:30,319 - INFO - Table does not exist; table will be created.
+2026-03-28 06:56:30,320 - INFO - Reading data from financial_transactions_dataset.default.bronze_transactions_data
+2026-03-28 06:56:30,691 - INFO - Read 13305915 rows from financial_transactions_dataset.default.bronze_transactions_data
+2026-03-28 06:56:30,692 - INFO - Converting amount to decimal
+2026-03-28 06:56:30,693 - INFO - Splitting date and time for each record.
+2026-03-28 06:56:30,694 - INFO - Dropping original date field.
+2026-03-28 06:56:30,695 - INFO - Converting fields to integer
+2026-03-28 06:56:30,697 - INFO - Renaming columns
+2026-03-28 06:56:30,698 - INFO - Reordering arrangement of fields
+2026-03-28 06:56:30,700 - INFO - Creating table to financial_transactions_dataset.default
+2026-03-28 06:56:39,664 - INFO - Wrote 13305915 rows to financial_transactions_dataset.default
+2026-03-28 06:56:39,667 - INFO - Silver level table silver_transactions_data created or appended to successfully.
+2026-03-28 06:57:07,067 - INFO - Received command c on object id p0
+2026-03-28 21:47:32,657 - INFO - Initializing ETL on bronze dataframe
+2026-03-28 21:47:32,658 - INFO - Checking to see if silver_users_data exists.
+2026-03-28 21:47:33,042 - INFO - Table does not exist; table will be created.
+2026-03-28 21:47:33,058 - INFO - Reading data from financial_transactions_dataset.default.bronze_users_data
+2026-03-28 21:47:34,199 - INFO - Read 2000 rows from financial_transactions_dataset.default.bronze_users_data
+2026-03-28 21:47:34,201 - INFO - Converting per capita income to integer
+2026-03-28 21:47:34,247 - INFO - Converting yearly income to integer
+2026-03-28 21:47:34,251 - INFO - Converting total debt to integer
+2026-03-28 21:47:34,253 - INFO - Converting latitude to decimal
+2026-03-28 21:47:34,255 - INFO - Converting longitude to decimal
+2026-03-28 21:47:34,268 - INFO - Converting fields to integer
+2026-03-28 21:47:34,270 - INFO - Renaming field.
+2026-03-28 21:47:34,272 - INFO - Creating table to financial_transactions_dataset.default
+2026-03-28 21:47:42,895 - INFO - Wrote 2000 rows to financial_transactions_dataset.default
+2026-03-28 21:47:42,900 - INFO - Silver level table silver_users_data created or appended to successfully.
+2026-03-28 21:47:52,827 - INFO - Received command c on object id p0
+2026-03-28 21:51:12,621 - INFO - Python Server ready to receive messages
+2026-03-28 21:51:12,622 - INFO - Received command c on object id p0
+2026-03-28 21:51:20,973 - INFO - Received command c on object id p0
+2026-03-28 21:51:21,395 - INFO - Received command c on object id p0
+2026-03-28 21:51:21,805 - INFO - Received command c on object id p0
+2026-03-28 21:51:22,135 - INFO - Received command c on object id p0
+2026-03-28 21:51:22,426 - INFO - Received command c on object id p0
+2026-03-28 21:51:22,722 - INFO - Received command c on object id p0
+2026-03-28 21:51:23,056 - INFO - Received command c on object id p0
+2026-03-28 21:51:23,293 - INFO - Received command c on object id p0
+2026-03-28 21:51:23,532 - INFO - Received command c on object id p0
+2026-03-28 21:51:23,852 - INFO - Received command c on object id p0
+2026-03-28 21:51:24,138 - INFO - Received command c on object id p0
+2026-03-28 21:51:24,463 - INFO - Received command c on object id p0
+2026-03-28 21:51:24,496 - INFO - Initializing ETL on bronze dataframe
+2026-03-28 21:51:24,497 - INFO - Checking to see if silver_users_data exists.
+2026-03-28 21:51:24,693 - INFO - Table does not exist; table will be created.
+2026-03-28 21:51:24,694 - INFO - Reading data from financial_transactions_dataset.default.bronze_users_data
+2026-03-28 21:51:25,047 - INFO - Read 2000 rows from financial_transactions_dataset.default.bronze_users_data
+2026-03-28 21:51:25,048 - INFO - Converting per capita income to integer
+2026-03-28 21:51:25,055 - INFO - Converting yearly income to integer
+2026-03-28 21:51:25,061 - INFO - Converting total debt to integer
+2026-03-28 21:51:25,062 - INFO - Converting latitude to decimal
+2026-03-28 21:51:25,064 - INFO - Converting longitude to decimal
+2026-03-28 21:51:25,065 - INFO - Converting fields to integer
+2026-03-28 21:51:25,066 - INFO - Renaming id field to client_id.
+2026-03-28 21:51:25,067 - INFO - Creating table to financial_transactions_dataset.default
+2026-03-28 21:51:29,196 - INFO - Wrote 2000 rows to financial_transactions_dataset.default
+2026-03-28 21:51:29,197 - INFO - Silver level table silver_users_data created or appended to successfully.
+2026-03-28 21:59:24,954 - INFO - Python Server ready to receive messages
+2026-03-28 21:59:24,958 - INFO - Received command c on object id p0
+2026-03-28 21:59:46,269 - INFO - Received command c on object id p0
+2026-03-28 21:59:46,525 - INFO - Received command c on object id p0
+2026-03-28 21:59:46,835 - INFO - Received command c on object id p0
+2026-03-28 21:59:47,113 - INFO - Received command c on object id p0
+2026-03-28 21:59:47,416 - INFO - Received command c on object id p0
+2026-03-28 21:59:47,750 - INFO - Received command c on object id p0
+2026-03-28 21:59:47,890 - INFO - Received command c on object id p0
+2026-03-28 22:03:54,671 - INFO - Initializing ETL on bronze dataframe
+2026-03-28 22:03:54,674 - INFO - Checking to see if silver_cards_data exists.
+2026-03-28 22:03:54,914 - INFO - Table does not exist; table will be created.
+2026-03-28 22:03:54,917 - INFO - Reading data from financial_transactions_dataset.default.bronze_cards_data
+2026-03-28 22:03:55,937 - INFO - Read 6146 rows from financial_transactions_dataset.default.bronze_cards_data
+2026-03-28 22:03:55,953 - INFO - Reformatting expiration date
+2026-03-28 22:03:55,985 - INFO - Reformatting account open date
+2026-03-28 22:03:55,987 - INFO - Dropping original expiration, account open dates
+2026-03-28 22:03:55,989 - INFO - Converting expiration and account open dates to yyyy-MM format
+2026-03-28 22:03:55,991 - INFO - Capitalizing values in card_on_dark_web
+2026-03-28 22:03:55,992 - INFO - Converting credit limit to integer
+2026-03-28 22:03:55,994 - INFO - Renaming id field to card_id.
+2026-03-28 22:03:55,995 - INFO - Reordering arrangement of fields
+2026-03-28 22:03:55,996 - INFO - Creating table to financial_transactions_dataset.default
+2026-03-28 22:04:01,114 - INFO - Wrote 6146 rows to financial_transactions_dataset.default
+2026-03-28 22:04:01,118 - INFO - Silver level table silver_cards_data created or appended to successfully.
+2026-03-28 22:12:25,516 - INFO - Initializing ETL on bronze dataframe
+2026-03-28 22:12:25,517 - INFO - Checking to see if silver_train_fraud_labels exists.
+2026-03-28 22:12:25,699 - INFO - Table does not exist; table will be created.
+2026-03-28 22:12:25,701 - INFO - Reading data from financial_transactions_dataset.default.bronze_train_fraud_labels
+2026-03-28 22:12:26,255 - INFO - Read 8914962 rows from financial_transactions_dataset.default.bronze_train_fraud_labels
+2026-03-28 22:12:26,256 - INFO - Capitalizing values in flag
+2026-03-28 22:12:26,294 - INFO - Converting id to integer
+2026-03-28 22:12:26,295 - INFO - Renaming flag to fraud_flag
+2026-03-28 22:12:26,296 - INFO - Creating table to financial_transactions_dataset.default
+2026-03-28 22:12:32,321 - INFO - Wrote 8914962 rows to financial_transactions_dataset.default
+2026-03-28 22:12:32,323 - INFO - Silver level table silver_train_fraud_labels created or appended to successfully.

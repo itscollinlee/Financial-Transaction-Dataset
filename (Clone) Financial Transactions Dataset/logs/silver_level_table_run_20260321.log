@@ -1,0 +1,66 @@
+2026-03-21 22:25:50,231 - INFO - Initializing ETL on bronze dataframe
+2026-03-21 22:25:50,232 - INFO - Checking to see if silver_cards_data exists.
+2026-03-21 22:25:51,231 - INFO - Table does not exist; table will be created.
+2026-03-21 22:25:51,232 - INFO - Reading data from financial_transactions_dataset.default.bronze_cards_data
+2026-03-21 22:26:55,141 - INFO - Python Server ready to receive messages
+2026-03-21 22:26:55,150 - INFO - Received command c on object id p0
+2026-03-21 22:26:55,185 - INFO - Initializing ETL on bronze dataframe
+2026-03-21 22:26:55,185 - INFO - Checking to see if silver_cards_data exists.
+2026-03-21 22:26:55,473 - INFO - Table does not exist; table will be created.
+2026-03-21 22:26:55,474 - INFO - Reading data from financial_transactions_dataset.default.bronze_cards_data
+2026-03-21 22:26:56,193 - INFO - Read 6146 rows from financial_transactions_dataset.default.bronze_cards_data
+2026-03-21 22:26:56,193 - INFO - Reformatting expiration date
+2026-03-21 22:26:56,195 - INFO - Reformatting account open date
+2026-03-21 22:26:56,196 - INFO - Dropping original expiration, account open dates
+2026-03-21 22:26:56,196 - INFO - Converting expiration and account open dates to yyyy-MM format
+2026-03-21 22:26:56,197 - INFO - Capitalizing values in card_on_dark_web
+2026-03-21 22:26:56,198 - INFO - Reordering arrangement of fields
+2026-03-21 22:26:56,199 - INFO - Creating table to financial_transactions_dataset.default
+2026-03-21 22:27:01,287 - INFO - Wrote 6146 rows to financial_transactions_dataset.default
+2026-03-21 22:27:01,287 - INFO - Silver level table silver_cards_data created or appended to successfully.
+2026-03-21 22:29:09,045 - INFO - Python Server ready to receive messages
+2026-03-21 22:29:09,047 - INFO - Received command c on object id p0
+2026-03-21 22:31:56,489 - INFO - Python Server ready to receive messages
+2026-03-21 22:31:56,490 - INFO - Received command c on object id p0
+2026-03-21 22:32:25,070 - INFO - Received command c on object id p0
+2026-03-21 22:32:28,174 - INFO - Received command c on object id p0
+2026-03-21 22:32:28,216 - INFO - Initializing ETL on bronze dataframe
+2026-03-21 22:32:28,217 - INFO - Checking to see if silver_cards_data exists.
+2026-03-21 22:32:28,539 - INFO - Table does not exist; table will be created.
+2026-03-21 22:32:28,541 - INFO - Reading data from financial_transactions_dataset.default.bronze_cards_data
+2026-03-21 22:32:28,938 - INFO - Read 6146 rows from financial_transactions_dataset.default.bronze_cards_data
+2026-03-21 22:32:28,943 - INFO - Reformatting expiration date
+2026-03-21 22:32:28,944 - INFO - Reformatting account open date
+2026-03-21 22:32:28,945 - INFO - Dropping original expiration, account open dates
+2026-03-21 22:32:28,946 - INFO - Converting expiration and account open dates to yyyy-MM format
+2026-03-21 22:32:28,947 - INFO - Capitalizing values in card_on_dark_web
+2026-03-21 22:32:28,947 - INFO - Converting credit limit to integer
+2026-03-21 22:32:28,948 - INFO - Reordering arrangement of fields
+2026-03-21 22:32:28,949 - INFO - Creating table to financial_transactions_dataset.default
+2026-03-21 22:34:01,573 - INFO - Python Server ready to receive messages
+2026-03-21 22:34:01,574 - INFO - Received command c on object id p0
+2026-03-21 22:34:01,619 - INFO - Reading data from financial_transactions_dataset.default.bronze_cards_data
+2026-03-21 22:34:01,970 - INFO - Read 6146 rows from financial_transactions_dataset.default.bronze_cards_data
+2026-03-21 22:34:11,128 - INFO - Received command c on object id p0
+2026-03-21 22:34:38,797 - INFO - Received command c on object id p0
+2026-03-21 22:34:41,626 - INFO - Received command c on object id p0
+2026-03-21 22:34:43,884 - INFO - Received command c on object id p0
+2026-03-21 22:35:20,320 - INFO - Received command c on object id p0
+2026-03-21 22:35:22,701 - INFO - Received command c on object id p0
+2026-03-21 22:35:31,060 - INFO - Received command c on object id p0
+2026-03-21 22:35:52,686 - INFO - Received command c on object id p0
+2026-03-21 22:35:52,725 - INFO - Initializing ETL on bronze dataframe
+2026-03-21 22:35:52,726 - INFO - Checking to see if silver_cards_data exists.
+2026-03-21 22:35:52,893 - INFO - Table does not exist; table will be created.
+2026-03-21 22:35:52,893 - INFO - Reading data from financial_transactions_dataset.default.bronze_cards_data
+2026-03-21 22:35:53,231 - INFO - Read 6146 rows from financial_transactions_dataset.default.bronze_cards_data
+2026-03-21 22:35:53,232 - INFO - Reformatting expiration date
+2026-03-21 22:35:53,234 - INFO - Reformatting account open date
+2026-03-21 22:35:53,235 - INFO - Dropping original expiration, account open dates
+2026-03-21 22:35:53,235 - INFO - Converting expiration and account open dates to yyyy-MM format
+2026-03-21 22:35:53,236 - INFO - Capitalizing values in card_on_dark_web
+2026-03-21 22:35:53,237 - INFO - Converting credit limit to integer
+2026-03-21 22:35:53,240 - INFO - Reordering arrangement of fields
+2026-03-21 22:35:53,241 - INFO - Creating table to financial_transactions_dataset.default
+2026-03-21 22:35:57,382 - INFO - Wrote 6146 rows to financial_transactions_dataset.default
+2026-03-21 22:35:57,383 - INFO - Silver level table silver_cards_data created or appended to successfully.

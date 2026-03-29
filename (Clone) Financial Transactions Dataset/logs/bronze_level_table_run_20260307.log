@@ -1,0 +1,30 @@
+2026-03-07 21:50:41,761 - INFO - Checking to see if bronze_cards_data exists.
+2026-03-07 21:50:42,245 - INFO - Table does not exist; table will be created.
+2026-03-07 21:50:42,494 - INFO - cards_data.csv is in the volume folder
+2026-03-07 21:50:42,517 - INFO - 1 files to load
+2026-03-07 21:50:42,518 - INFO - Extracting data from /Volumes/financial_transactions_dataset/default/financial_transactions_dataset_analytics_volume/cards_data.csv
+2026-03-07 21:50:44,501 - INFO - Extracted 6146 rows with 13 columns
+2026-03-07 21:50:45,229 - INFO - Extracted 6146 rows with 13 columns
+2026-03-07 21:50:45,230 - INFO - Creating table to financial_transactions_dataset.default
+2026-03-07 21:50:51,672 - INFO - Wrote 6146 rows to financial_transactions_dataset.default
+2026-03-07 21:50:51,672 - INFO - Bronze level table bronze_cards_data created or appended to successfully.
+2026-03-07 21:52:14,437 - INFO - Python Server ready to receive messages
+2026-03-07 21:52:14,439 - INFO - Received command c on object id p0
+2026-03-07 21:53:05,065 - INFO - Received command c on object id p0
+2026-03-07 21:55:03,267 - INFO - Python Server ready to receive messages
+2026-03-07 21:55:03,285 - INFO - Received command c on object id p0
+2026-03-07 21:55:03,355 - INFO - Checking to see if bronze_cards_data exists.
+2026-03-07 21:55:03,568 - INFO - Table exists; table creation skipped.
+2026-03-07 21:55:03,785 - INFO - cards_data.csv is in the volume folder
+2026-03-07 21:55:03,807 - INFO - 1 files to load
+2026-03-07 21:55:03,809 - INFO - Extracting data from /Volumes/financial_transactions_dataset/default/financial_transactions_dataset_analytics_volume/cards_data.csv
+2026-03-07 21:55:05,158 - INFO - Extracted 6146 rows with 13 columns
+2026-03-07 21:55:05,617 - INFO - Extracted 6146 rows with 13 columns
+2026-03-07 21:55:05,618 - INFO - Appending data to financial_transactions_dataset.default
+2026-03-07 21:55:07,973 - INFO - Wrote 6146 rows to financial_transactions_dataset.default
+2026-03-07 21:55:07,974 - INFO - Bronze level table bronze_cards_data created or appended to successfully.
+2026-03-07 21:55:21,756 - INFO - Received command c on object id p0
+2026-03-07 22:00:30,292 - INFO - Python Server ready to receive messages
+2026-03-07 22:00:30,295 - INFO - Received command c on object id p0
+2026-03-07 22:01:48,862 - INFO - Python Server ready to receive messages
+2026-03-07 22:01:48,866 - INFO - Received command c on object id p0

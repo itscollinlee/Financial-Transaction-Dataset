@@ -1,0 +1,60 @@
+2026-03-08 00:27:14,289 - INFO - Checking to see if bronze_mcc_codes_data exists.
+2026-03-08 00:27:14,951 - INFO - Table does not exist; table will be created.
+2026-03-08 00:27:18,283 - INFO - mcc_codes.json is in the volume folder
+2026-03-08 00:27:18,287 - INFO - 1 files to load
+2026-03-08 00:27:18,289 - INFO - Extracting data from /Volumes/financial_transactions_dataset/default/financial_transactions_dataset_analytics_volume/mcc_codes.json
+2026-03-08 00:27:19,155 - INFO - Extracted 1 rows with 109 columns
+2026-03-08 00:27:19,156 - INFO - Creating table to financial_transactions_dataset.default
+2026-03-08 00:27:27,756 - INFO - Wrote 1 rows to financial_transactions_dataset.default
+2026-03-08 00:27:27,757 - INFO - Bronze level table bronze_mcc_codes_data created or appended to successfully.
+2026-03-08 00:27:51,535 - INFO - Received command c on object id p0
+2026-03-08 00:27:58,441 - INFO - Received command c on object id p0
+2026-03-08 00:28:04,839 - INFO - Received command c on object id p0
+2026-03-08 00:28:21,898 - INFO - Received command c on object id p0
+2026-03-08 00:30:52,365 - INFO - Checking to see if bronze_transactions_data exists.
+2026-03-08 00:30:52,576 - INFO - Table does not exist; table will be created.
+2026-03-08 00:30:55,053 - INFO - transactions_data_p1.csv is in the volume folder
+2026-03-08 00:30:55,054 - INFO - transactions_data_p2.csv is in the volume folder
+2026-03-08 00:30:55,054 - INFO - transactions_data_p3.csv is in the volume folder
+2026-03-08 00:30:55,055 - INFO - transactions_data_p4.csv is in the volume folder
+2026-03-08 00:30:55,056 - INFO - 4 files to load
+2026-03-08 00:30:55,057 - INFO - Extracting data from /Volumes/financial_transactions_dataset/default/financial_transactions_dataset_analytics_volume/transactions_data_p1.csv
+2026-03-08 00:30:56,834 - INFO - Extracted 2960375 rows with 12 columns
+2026-03-08 00:30:56,835 - INFO - Extracting data from /Volumes/financial_transactions_dataset/default/financial_transactions_dataset_analytics_volume/transactions_data_p2.csv
+2026-03-08 00:30:58,495 - INFO - Extracted 3858514 rows with 12 columns
+2026-03-08 00:30:58,496 - INFO - Extracting data from /Volumes/financial_transactions_dataset/default/financial_transactions_dataset_analytics_volume/transactions_data_p3.csv
+2026-03-08 00:31:00,119 - INFO - Extracted 3175515 rows with 12 columns
+2026-03-08 00:31:00,120 - INFO - Extracting data from /Volumes/financial_transactions_dataset/default/financial_transactions_dataset_analytics_volume/transactions_data_p4.csv
+2026-03-08 00:31:01,713 - INFO - Extracted 3311511 rows with 12 columns
+2026-03-08 00:31:04,267 - INFO - Extracted total 13305915 rows with 12 columns
+2026-03-08 00:31:04,268 - INFO - Creating table to financial_transactions_dataset.default
+2026-03-08 00:31:17,715 - INFO - Wrote 13305915 rows to financial_transactions_dataset.default
+2026-03-08 00:31:17,716 - INFO - Bronze level table bronze_transactions_data created or appended to successfully.
+2026-03-08 00:31:45,093 - INFO - Received command c on object id p0
+2026-03-08 00:32:20,114 - INFO - Received command c on object id p0
+2026-03-08 00:32:26,365 - INFO - Received command c on object id p0
+2026-03-08 00:34:37,243 - INFO - Checking to see if bronze_train_fraud_labels exists.
+2026-03-08 00:34:37,693 - INFO - Table does not exist; table will be created.
+2026-03-08 00:34:43,339 - INFO - train_fraud_labels.csv is in the volume folder
+2026-03-08 00:34:43,340 - INFO - 1 files to load
+2026-03-08 00:34:43,343 - INFO - Extracting data from /Volumes/financial_transactions_dataset/default/financial_transactions_dataset_analytics_volume/train_fraud_labels.csv
+2026-03-08 00:34:45,377 - INFO - Extracted 8914962 rows with 2 columns
+2026-03-08 00:34:46,335 - INFO - Extracted total 8914962 rows with 2 columns
+2026-03-08 00:34:46,336 - INFO - Creating table to financial_transactions_dataset.default
+2026-03-08 00:34:55,466 - INFO - Wrote 8914962 rows to financial_transactions_dataset.default
+2026-03-08 00:34:55,495 - INFO - Bronze level table bronze_train_fraud_labels created or appended to successfully.
+2026-03-08 00:39:24,439 - INFO - Python Server ready to receive messages
+2026-03-08 00:39:24,441 - INFO - Received command c on object id p0
+2026-03-08 00:39:43,861 - INFO - Received command c on object id p0
+2026-03-08 00:41:43,102 - INFO - Checking to see if bronze_users_data exists.
+2026-03-08 00:41:43,572 - INFO - Table does not exist; table will be created.
+2026-03-08 00:41:48,398 - INFO - users_data.csv is in the volume folder
+2026-03-08 00:41:48,400 - INFO - 1 files to load
+2026-03-08 00:41:48,402 - INFO - Extracting data from /Volumes/financial_transactions_dataset/default/financial_transactions_dataset_analytics_volume/users_data.csv
+2026-03-08 00:41:49,646 - INFO - Extracted 2000 rows with 14 columns
+2026-03-08 00:41:50,058 - INFO - Extracted total 2000 rows with 14 columns
+2026-03-08 00:41:50,059 - INFO - Creating table to financial_transactions_dataset.default
+2026-03-08 00:41:53,711 - INFO - Wrote 2000 rows to financial_transactions_dataset.default
+2026-03-08 00:41:53,711 - INFO - Bronze level table bronze_users_data created or appended to successfully.
+2026-03-08 00:42:13,018 - INFO - Received command c on object id p0
+2026-03-08 00:42:30,412 - INFO - Received command c on object id p0

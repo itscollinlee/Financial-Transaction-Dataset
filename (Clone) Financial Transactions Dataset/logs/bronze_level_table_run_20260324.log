@@ -1,0 +1,48 @@
+2026-03-24 03:51:45,069 - INFO - Checking to see if bronze_mcc_codes_data exists.
+2026-03-24 03:52:05,105 - INFO - Table does not exist; table will be created.
+2026-03-24 03:52:11,314 - INFO - mcc_codes.json is in the volume folder
+2026-03-24 03:52:11,315 - INFO - 1 files to load
+2026-03-24 03:52:11,318 - INFO - Extracting data from /Volumes/financial_transactions_dataset/default/financial_transactions_dataset_analytics_volume/mcc_codes.json
+2026-03-24 03:52:25,248 - INFO - Extracted 1 rows with 109 columns
+2026-03-24 03:52:25,249 - INFO - Creating table to financial_transactions_dataset.default
+2026-03-24 03:52:40,014 - INFO - Wrote 1 rows to financial_transactions_dataset.default
+2026-03-24 03:52:40,017 - INFO - Bronze level table bronze_mcc_codes_data created or appended to successfully.
+2026-03-24 03:53:10,114 - INFO - Checking to see if bronze_users_data exists.
+2026-03-24 03:53:10,692 - INFO - Table does not exist; table will be created.
+2026-03-24 03:53:20,335 - INFO - users_data.csv is in the volume folder
+2026-03-24 03:53:20,373 - INFO - 1 files to load
+2026-03-24 03:53:20,384 - INFO - Extracting data from /Volumes/financial_transactions_dataset/default/financial_transactions_dataset_analytics_volume/users_data.csv
+2026-03-24 03:53:22,772 - INFO - Extracted 2000 rows with 14 columns
+2026-03-24 03:53:23,363 - INFO - Extracted total 2000 rows with 14 columns
+2026-03-24 03:53:23,365 - INFO - Creating table to financial_transactions_dataset.default
+2026-03-24 03:53:28,667 - INFO - Wrote 2000 rows to financial_transactions_dataset.default
+2026-03-24 03:53:28,669 - INFO - Bronze level table bronze_users_data created or appended to successfully.
+2026-03-24 03:53:58,097 - INFO - Checking to see if bronze_train_fraud_labels exists.
+2026-03-24 03:53:58,662 - INFO - Table does not exist; table will be created.
+2026-03-24 03:54:08,060 - INFO - train_fraud_labels.csv is in the volume folder
+2026-03-24 03:54:08,061 - INFO - 1 files to load
+2026-03-24 03:54:08,063 - INFO - Extracting data from /Volumes/financial_transactions_dataset/default/financial_transactions_dataset_analytics_volume/train_fraud_labels.csv
+2026-03-24 03:54:11,163 - INFO - Extracted 8914962 rows with 2 columns
+2026-03-24 03:54:12,654 - INFO - Extracted total 8914962 rows with 2 columns
+2026-03-24 03:54:12,655 - INFO - Creating table to financial_transactions_dataset.default
+2026-03-24 03:54:22,399 - INFO - Wrote 8914962 rows to financial_transactions_dataset.default
+2026-03-24 03:54:22,400 - INFO - Bronze level table bronze_train_fraud_labels created or appended to successfully.
+2026-03-24 03:54:47,903 - INFO - Checking to see if bronze_transactions_data exists.
+2026-03-24 03:54:48,561 - INFO - Table does not exist; table will be created.
+2026-03-24 03:54:57,787 - INFO - transactions_data_p1.csv is in the volume folder
+2026-03-24 03:54:57,789 - INFO - transactions_data_p2.csv is in the volume folder
+2026-03-24 03:54:57,790 - INFO - transactions_data_p3.csv is in the volume folder
+2026-03-24 03:54:57,791 - INFO - transactions_data_p4.csv is in the volume folder
+2026-03-24 03:54:57,792 - INFO - 4 files to load
+2026-03-24 03:54:57,793 - INFO - Extracting data from /Volumes/financial_transactions_dataset/default/financial_transactions_dataset_analytics_volume/transactions_data_p1.csv
+2026-03-24 03:55:00,071 - INFO - Extracted 2960375 rows with 12 columns
+2026-03-24 03:55:00,073 - INFO - Extracting data from /Volumes/financial_transactions_dataset/default/financial_transactions_dataset_analytics_volume/transactions_data_p2.csv
+2026-03-24 03:55:02,370 - INFO - Extracted 3858514 rows with 12 columns
+2026-03-24 03:55:02,372 - INFO - Extracting data from /Volumes/financial_transactions_dataset/default/financial_transactions_dataset_analytics_volume/transactions_data_p3.csv
+2026-03-24 03:55:04,380 - INFO - Extracted 3175515 rows with 12 columns
+2026-03-24 03:55:04,381 - INFO - Extracting data from /Volumes/financial_transactions_dataset/default/financial_transactions_dataset_analytics_volume/transactions_data_p4.csv
+2026-03-24 03:55:06,535 - INFO - Extracted 3311511 rows with 12 columns
+2026-03-24 03:55:09,367 - INFO - Extracted total 13305915 rows with 12 columns
+2026-03-24 03:55:09,380 - INFO - Creating table to financial_transactions_dataset.default
+2026-03-24 03:55:24,227 - INFO - Wrote 13305915 rows to financial_transactions_dataset.default
+2026-03-24 03:55:24,228 - INFO - Bronze level table bronze_transactions_data created or appended to successfully.
